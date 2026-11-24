@@ -9,22 +9,13 @@ FILES
 - contact.html  Contact page
 - style.css     Shared design and styling
 
-BEFORE SUBMITTING
-1. Open the HTML files and replace all [Insert ...] placeholders with your real information.
-2. Replace the sample hobbies with your actual hobbies if needed.
-3. If you want to add a photo, put the image in this folder and replace the profile-placeholder div in index.html with:
-   <img class="profile-photo" src="your-photo.jpg" alt="Photo of Nur Najihah">
-   Then add this CSS:
-   .profile-photo { width:230px; height:230px; object-fit:cover; border-radius:50%; }
-4. Test by opening index.html in a browser. Check that all three navigation links work.
-
 GIT COMMANDS
 Open Terminal/Command Prompt in this project folder and run:
 git init
 git add .
 git commit -m "Initial resume site"
 git branch -M main
-git remote add origin https://github.com/YOUR-GITHUB-USERNAME/my-resume-site.git
+git remote add origin https://jihahaznn-star.github.io/my-resume-site/
 git push -u origin main
 
 GITHUB PAGES
@@ -34,8 +25,8 @@ Branch: main
 Folder: /(root)
 Click Save and wait for deployment.
 
-Your website address will be:
-https://YOUR-GITHUB-USERNAME.github.io/my-resume-site/
+Website address:
+https://jihahaznn-star.github.io/my-resume-site/
 
 ASSIGNMENT QUESTION: WHAT IS THE MISTAKE?
 The command shown in the question uses:
