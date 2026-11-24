@@ -24,7 +24,7 @@ I consider myself a responsible, adaptable and motivated individual who enjoys l
 
 ## 🎓 Education
 
-<<<<<<< HEAD
+
 | Information | Details |
 |---|---|
 | Name | Nur Najihah Binti Aznan |
@@ -142,8 +142,7 @@ https://jihahaznn-star.github.io/my-resume-site/
 
 ---
 
-<<<<<<< HEAD
-*Created by Nur Najihah Binti Aznan | 2026*
-=======
+
+
 *Designed and developed by Nur Najihah Binti Aznan | 2026*
->>>>>>> c3442bd (Update personal portfolio README)
+
