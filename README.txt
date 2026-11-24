@@ -1,5 +1,6 @@
 NUR NAJIHAH RESUME WEBSITE
 Matric Number: 300234
+Name : Nur Najihah Aznan
 
 FILES
 - index.html    Home page (must remain named index.html for GitHub Pages)
