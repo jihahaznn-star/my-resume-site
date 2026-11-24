@@ -33,7 +33,6 @@ I consider myself a responsible, adaptable and motivated individual who enjoys l
 | Programme | BACHELOR OF ARTS (HONS.) LINGUISTICS AND INFORMATION TECHNOLOGY |
 =======
 | Institution | Qualification | Year |
-|---|---|---|
 | Universiti Utara Malaysia | Bachelor of Arts in Linguistics and Information Technology with Honours | 2027 (Expected) |
 | SMK Changlun | STPM – Social Science Stream | 2023 |
 
