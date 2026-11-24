@@ -1,32 +1,64 @@
-# 🌷 Nur Najihah Binti Aznan | Personal Resume Website
+# 🌷 Nur Najihah Binti Aznan
 
-**Matric Number:** 300234  
-**Personal Portfolio & Resume Website**
+### Personal Resume & Portfolio Website
 
-Welcome to my personal resume website! This project was developed as part of my web development assignment to demonstrate my understanding of HTML, CSS, Git and GitHub Pages.
+**Matric Number:** 300234
 
-🌐 **[Visit My Personal Website](https://jihahaznn-star.github.io/my-resume-site/)**
+Welcome to my personal portfolio repository!
+
+This website was developed as part of my Web Engineering assignment to demonstrate my understanding of HTML, CSS, Git and GitHub Pages.
+
+🌐 **[VISIT MY PERSONAL WEBSITE](https://jihahaznn-star.github.io/my-resume-site/)**
 
 ---
 
 ## 👩🏻 About Me
 
-Hello! My name is **Nur Najihah Binti Aznan**.
+I am Nur Najihah Binti Aznan, a Bachelor of Arts in Linguistics and Information Technology with Honours student at Universiti Utara Malaysia (UUM).
 
-I am a university student who is passionate about learning, personal development and exploring new knowledge. I enjoy discovering new skills, gaining experiences and improving my understanding of technology.
+I am passionate about the relationship between language and technology, with interests in web development, Natural Language Processing, database design and data analysis.
 
-I created this website to introduce myself, share my interests and present my personal information in a simple and organised digital format.
+I consider myself a responsible, adaptable and motivated individual who enjoys learning new skills and exploring opportunities for personal and professional development.
 
 ---
 
 ## 🎓 Education
 
+<<<<<<< HEAD
 | Information | Details |
 |---|---|
 | Name | Nur Najihah Binti Aznan |
 | Matric Number | 300234 |
 | University | UNIVERSITY UTARA MALAYSIA |
 | Programme | BACHELOR OF ARTS (HONS.) LINGUISTICS AND INFORMATION TECHNOLOGY |
+=======
+| Institution | Qualification | Year |
+|---|---|---|
+| Universiti Utara Malaysia | Bachelor of Arts in Linguistics and Information Technology with Honours | 2027 (Expected) |
+| SMK Changlun | STPM – Social Science Stream | 2023 |
+
+**Current CGPA:** 3.33 / 4.00
+
+---
+
+## 💼 Work Experience
+
+### Assistant Cashier – CMART
+*April 2023 – September 2023*
+
+- Managed daily cash transactions and cash reconciliation.
+- Assisted in supervising cashier operations.
+- Supported team members during daily shifts.
+- Assisted with store operations and customer service.
+
+### Barista – Adam's Corner
+*June 2024 – September 2025*
+
+- Prepared coffee, beverages and food.
+- Managed cash transactions and daily sales reconciliation.
+- Promoted café products and special offers.
+- Maintained cleanliness and food safety standards.
+>>>>>>> c3442bd (Update personal portfolio README)
 
 ---
 
@@ -34,56 +66,71 @@ I created this website to introduce myself, share my interests and present my pe
 
 | Category | Skills |
 |---|---|
+| Programming | Python, JavaScript, SQL |
+| Database & Analysis | Database Design, NLP, AntConc |
+| Office Applications | Microsoft Word, Excel, PowerPoint |
+| Google Applications | Google Docs, Google Sheets |
+| Design Tools | Canva, Draw.io |
 | Web Development | HTML, CSS |
-| Version Control | Git, GitHub |
-| Development Tools | Visual Studio Code |
-| Web Publishing | GitHub Pages |
 
 ---
 
-## ✨ Website Pages
+## 🌟 Core Skills
 
-This website consists of three main pages:
-
-### 🏠 Home
-Introduces my personal background, education, skills and career objectives.
-
-### 🎨 Hobbies
-Highlights my personal interests and activities that I enjoy during my free time.
-
-### 📩 Contact
-Provides my contact information for communication and networking.
+- Leadership
+- Communication
+- Teamwork
+- Time Management
+- Problem Solving
+- Adaptability
+- Attention to Detail
 
 ---
 
-## 🌸 Hobbies & Interests
+## 🌍 Languages
 
-Some of my interests include:
+- Malay – Native
+- English – Fluent
+- Mandarin – Basic
 
-- Reading and gaining new knowledge.
-- Listening to music.
-- Photography and capturing memories.
-- Exploring technology and digital tools.
+---
+
+## 🏆 Certificates & Activities
+
+- Malaysian University English Test (MUET) – Band 4.5
+- Secretary – International Student Mobility Programs
+
+---
+
+## 📂 Website Pages
+
+My personal website consists of three main pages:
+
+| Page | Description |
+|---|---|
+| Home | Personal introduction, education, experience and skills |
+| Hobbies | Personal interests and activities |
+| Contact | Contact information and ways to connect |
 
 ---
 
 ## 🛠️ Technologies Used
 
-The website was developed using:
-
-- **HTML5** – To structure the website content.
-- **CSS3** – To design and style the website.
-- **Git** – To manage project versions.
-- **GitHub** – To store and manage project files.
-- **GitHub Pages** – To publish the website online.
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git
+- GitHub
+- GitHub Pages
 
 ---
 
-## 🌐 Website
+## 🌐 Live Website
 
-My personal resume website is publicly available through GitHub Pages.
+My website is published using GitHub Pages.
 
-🔗 **Website:** https://jihahaznn-star.github.io/my-resume-site/
+**Website Link:**  
+https://jihahaznn-star.github.io/my-resume-site/
 
 ---
 
@@ -91,8 +138,12 @@ My personal resume website is publicly available through GitHub Pages.
 
 **Name:** Nur Najihah Binti Aznan  
 **Matric Number:** 300234  
-**Location:** Malaysia
+**Location:** Kedah, Malaysia
 
 ---
 
+<<<<<<< HEAD
 *Created by Nur Najihah Binti Aznan | 2026*
+=======
+*Designed and developed by Nur Najihah Binti Aznan | 2026*
+>>>>>>> c3442bd (Update personal portfolio README)
