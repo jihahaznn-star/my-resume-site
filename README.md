@@ -25,8 +25,8 @@ I created this website to introduce myself, share my interests and present my pe
 |---|---|
 | Name | Nur Najihah Binti Aznan |
 | Matric Number | 300234 |
-| University | [Your University] |
-| Programme | [Your Programme] |
+| University | UNIVERSITY UTARA MALAYSIA |
+| Programme | BACHELOR OF ARTS (HONS.) LINGUISTICS AND INFORMATION TECHNOLOGY |
 
 ---
 
